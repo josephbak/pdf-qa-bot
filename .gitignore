@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pkl
+vector_store/
+*.zip
+data/
+
